@@ -33,7 +33,7 @@
     "EXPERIMENTAL": {
         "2.93":{
           "name": "Blender 2.93.0 Alpha",
-          "version": "2.93.0-36deb8a48ef2-windows64"
+          "version": "2.93.0-36deb8a48ef2-windows64",
           "link": "https://builder.blender.org/download/blender-2.93.0-36deb8a48ef2-windows64.zip",
           "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/feature-pic1.jpg",
           "imageRef": "https://cloud.blender.org/films/sprite-fright/pages/about",
