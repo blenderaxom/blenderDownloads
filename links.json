@@ -2,7 +2,7 @@
   "WINDOWS": {
     "LTS": {
       "name": "blender-2.83.13",
-      "version": 2.83.13,
+      "version": "2.83.13",
       "link": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-windows64.zip",
       "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/e5777d2d8cc0c4bfa97218af50df761c.jpg",
       "imageRef": "https://cloud.blender.org/films/spring/pages/about",
@@ -17,7 +17,7 @@
     },
     "STABLE": {
       "name": "Blender 2.92",
-      "version": 2.92.0,
+      "version": "2.92.0",
       "link": "https://opendata.blender.org/cdn/Blender2.92/blender-2.92.0-windows64.zip",
       "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/c8fb48dbf1f3dd84bffb7254d49f0e3d.jpg",
       "imageRef": "https://cloud.blender.org/films/agent-327/pages/about",
