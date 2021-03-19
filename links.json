@@ -11,7 +11,7 @@
         "jp": "Blender LTSプログラムは、安定したBlenderバージョンを使用して長期的なプロジェクトを実行できるようにすることを目的としています。これにより、2年間にわたって重要な修正が提供されます。",
         "ru": "Программа Blender LTS нацелена на то, чтобы обеспечить выполнение долгосрочных проектов с использованием стабильной версии Blender, которая обеспечит критические исправления в течение 2-летнего периода.",
         "chi": "Blender LTS程序旨在确保可以使用稳定的Blender版本执行长期项目，该版本将在2年的时间范围内提供关键的修复程序。",
-        "portu": "O programa Blender LTS visa garantir que projetos de longa duração possam ser executados usando uma versão estável do Blender, que fornecerá correções críticas ao longo de um período de 2 anos.",
+        "portu": "O programa Blender LTS visa garantir que projetos de longa duração possam ser executados usando uma versão estável do Blender, que fornecerá correções críticas ao longo de um período de 2 anos."
       },
       "readmore": {"sample": "ok"}
     },
@@ -42,7 +42,7 @@
             "jp": "最新の機能とクールなバグ修正。 それらは不安定で、ファイルを台無しにする可能性があります。 自己責任。",
             "chi": "最新功能和出色的错误修复。 它们可能不稳定，并弄乱了您的文件。 使用风险自负。",
             "ru": "Последние функции и отличные исправления ошибок. Они могут быть нестабильными и испортить ваши файлы. Используйте на свой риск.",
-            "portu": "Os recursos mais recentes e correções de bugs interessantes. Eles podem ser instáveis e bagunçar seus arquivos. Use por sua conta e risco.",
+            "portu": "Os recursos mais recentes e correções de bugs interessantes. Eles podem ser instáveis e bagunçar seus arquivos. Use por sua conta e risco."
           },
           "readmore": {"sample": "ok"}
         }
