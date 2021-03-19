@@ -2,7 +2,7 @@
   "WINDOWS": {
     "LTS": {
       "name": "blender-2.83.13",
-      "link": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-windows64.zip?x18334"
+      "link": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-windows64.zip"
     },
     "STABLE": {
       "name": "Blender 2.92",
