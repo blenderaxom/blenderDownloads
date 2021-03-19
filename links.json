@@ -1,7 +1,7 @@
 {
   "WINDOWS": {
     "LTS": {
-      "name": "blender-2.83.13",
+      "name": "Blender 2.83",
       "version": "2.83.13",
       "link": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-windows64.zip",
       "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/e5777d2d8cc0c4bfa97218af50df761c.jpg",
