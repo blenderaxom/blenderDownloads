@@ -13,7 +13,7 @@
         "chi": "Blender LTS程序旨在确保可以使用稳定的Blender版本执行长期项目，该版本将在2年的时间范围内提供关键的修复程序。",
         "portu": "O programa Blender LTS visa garantir que projetos de longa duração possam ser executados usando uma versão estável do Blender, que fornecerá correções críticas ao longo de um período de 2 anos.",
       },
-      "readmore": {}
+      "readmore": {"sample": "ok"}
     },
     "STABLE": {
       "name": "Blender 2.92",
@@ -28,7 +28,7 @@
         "chi": "全新的工作流程，可用于编辑网格，新的物理模拟方法等等！",
         "portu": "Um fluxo de trabalho completamente novo para edição de malhas, novos métodos de simulação física e muito mais!"
       },
-      "readmore": {}
+      "readmore": {"sample": "ok"}
     },
     "EXPERIMENTAL": {
         "2.93":{
@@ -44,7 +44,7 @@
             "ru": "Последние функции и отличные исправления ошибок. Они могут быть нестабильными и испортить ваши файлы. Используйте на свой риск.",
             "portu": "Os recursos mais recentes e correções de bugs interessantes. Eles podem ser instáveis e bagunçar seus arquivos. Use por sua conta e risco.",
           },
-          "readmore": {}
+          "readmore": {"sample": "ok"}
         }
     }
   },
