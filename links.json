@@ -2,16 +2,40 @@
   "WINDOWS": {
     "LTS": {
       "name": "blender-2.83.13",
-      "link": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-windows64.zip"
+      "link": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-windows64.zip",
+      "description": {
+        "en": "The Blender LTS program is aimed at ensuring that long-lasting projects can be executed using a stable Blender version, which will provide critical fixes throughout a 2-year time span."
+        "jp": "Blender LTSプログラムは、安定したBlenderバージョンを使用して長期的なプロジェクトを実行できるようにすることを目的としています。これにより、2年間にわたって重要な修正が提供されます。",
+        "ru": "Программа Blender LTS нацелена на то, чтобы обеспечить выполнение долгосрочных проектов с использованием стабильной версии Blender, которая обеспечит критические исправления в течение 2-летнего периода.",
+        "chi": "Blender LTS程序旨在确保可以使用稳定的Blender版本执行长期项目，该版本将在2年的时间范围内提供关键的修复程序。",
+        "portu": "O programa Blender LTS visa garantir que projetos de longa duração possam ser executados usando uma versão estável do Blender, que fornecerá correções críticas ao longo de um período de 2 anos.",
+      },
+      "readmore": {}
     },
     "STABLE": {
       "name": "Blender 2.92",
-      "link": "https://opendata.blender.org/cdn/Blender2.92/blender-2.92.0-windows64.zip"
+      "link": "https://opendata.blender.org/cdn/Blender2.92/blender-2.92.0-windows64.zip",
+      "description": {
+        "en": "A completely new workflow for editing meshes, new physics simulation methods and so much more!",
+        "jp": "メッシュを編集するためのまったく新しいワークフロー、新しい物理シミュレーション方法など！",
+        "ru": "Совершенно новый рабочий процесс для редактирования сеток, новые методы моделирования физики и многое другое!",
+        "chi": "全新的工作流程，可用于编辑网格，新的物理模拟方法等等！",
+        "portu": "Um fluxo de trabalho completamente novo para edição de malhas, novos métodos de simulação física e muito mais!"
+      },
+      "readmore": {}
     },
     "EXPERIMENTAL": {
         "2.93":{
           "name": "Blender 2.93.0 Alpha",
-          "link": "https://builder.blender.org/download/blender-2.93.0-36deb8a48ef2-windows64.zip"
+          "link": "https://builder.blender.org/download/blender-2.93.0-36deb8a48ef2-windows64.zip",
+          "description": {
+            "en": "The latest features and cool bug fixes. They can be unstable and mess up your files. Use at your own risk.",
+            "jp": "最新の機能とクールなバグ修正。 それらは不安定で、ファイルを台無しにする可能性があります。 自己責任。",
+            "chi": "最新功能和出色的错误修复。 它们可能不稳定，并弄乱了您的文件。 使用风险自负。",
+            "ru": "Последние функции и отличные исправления ошибок. Они могут быть нестабильными и испортить ваши файлы. Используйте на свой риск.",
+            "portu": "Os recursos mais recentes e correções de bugs interessantes. Eles podem ser instáveis e bagunçar seus arquivos. Use por sua conta e risco.",
+          },
+          "readmore": {}
         }
     }
   },
