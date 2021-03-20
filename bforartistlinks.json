@@ -1,0 +1,26 @@
+{
+    "WINDOWS": {
+        "STABLE": {
+            "name": "Bforartists 2",
+            "version": "2.8.0",
+            "type": "STABLE",
+            "link": "https://www.bforartists.de/data/binaries/bforartists2_280.zip",
+            "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/c8fb48dbf1f3dd84bffb7254d49f0e3d.jpg",
+            "imageRef": "https://cloud.blender.org/films/agent-327/pages/about",
+            "imageName": "Agent 327",
+            "description": {
+                "en": "Bforartists is a fork of the popluar open source 3D software Blender. Developed by some 3D enthusiasts to make Blender even better.",
+                "jp": "Bforartistsは、人気のあるオープンソースの3DソフトウェアBlenderのフォークです。 Blenderをさらに良くするために何人かの3D愛好家によって開発されました。",
+                "ru": "Bforartists - это ответвление популярного программного обеспечения для 3D-моделирования с открытым исходным кодом Blender. Разработан некоторыми энтузиастами 3D, чтобы сделать Blender еще лучше.",
+                "chi": "Bforartists是流行的开源3D软件Blender的分支。 由某些3D爱好者开发，以使Blender变得更好。",
+                "portu": "Bforartists é um fork do popular software 3D de código aberto Blender. Desenvolvido por alguns entusiastas do 3D para tornar o Blender ainda melhor."
+            },
+            "readmore": {
+                "sample": "ok"
+            }
+        },
+        "EXPERIMENTAL": {}
+    },
+    "LINUX": {},
+    "MACOS": {}
+}
