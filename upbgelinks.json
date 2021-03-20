@@ -1,0 +1,46 @@
+{
+  "WINDOWS": {
+      "STABLE": {
+          "name": "UPBGE 0.2.5",
+          "version": "0.2.5",
+          "type": "STABLE",
+          "link": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Windows64.7z",
+          "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/c8fb48dbf1f3dd84bffb7254d49f0e3d.jpg",
+          "imageRef": "https://cloud.blender.org/films/agent-327/pages/about",
+          "imageName": "Agent 327",
+          "description": {
+              "en": "UPBGE is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself.",
+              "jp": "UPBGEは、古いBlenderゲームエンジンから分岐したオープンソースの3Dゲームエンジンであり、Blender自体とともに展開されます。",
+              "ru": "UPBGE - это движок для 3D-игр с открытым исходным кодом, созданный на основе старого игрового движка Blender, развернутый вместе с самим Blender.",
+              "chi": "UPBGE是一个开源3D游戏引擎，它是由Blender本身部署的旧Blender Game Engine派生的。",
+              "portu": "UPBGE é um motor de jogo 3D de código aberto derivado do antigo Blender Game Engine, implantado com o próprio Blender."
+          },
+          "readmore": {
+              "sample": "ok"
+          }
+      },
+    "EXPERIMENTAL": {
+      "EEVEE": {
+        "name": "UPBGE Eevee",
+        "version": "0.1",
+        "type": "EXPERIMENTAL",
+        "link": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Windows64.7z",
+        "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/c8fb48dbf1f3dd84bffb7254d49f0e3d.jpg",
+        "imageRef": "https://cloud.blender.org/films/agent-327/pages/about",
+        "imageName": "Agent 327",
+        "description": {
+            "en": "Experience the UPBGE in Blender's realtime rederer Eevee!",
+            "jp": "BlenderのリアルタイムredererイーブイでUPBGEを体験してください！",
+            "ru": "Испытайте UPBGE в Rederer Blender Eevee в реальном времени!",
+            "chi": "在Blender的实时重播器Eevee中体验UPBGE！",
+            "portu": "Experimente o UPBGE no rederer em tempo real Eevee do Blender!"
+        },
+        "readmore": {
+            "sample": "ok"
+        }
+      }
+    }
+  },
+  "LINUX": {},
+  "MACOS":{}
+}
