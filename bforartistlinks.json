@@ -18,8 +18,7 @@
             "readmore": {
                 "sample": "ok"
             }
-        },
-        "EXPERIMENTAL": {}
+        }
     },
     "LINUX": {},
     "MACOS": {}
