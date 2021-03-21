@@ -6,8 +6,8 @@
             "type": "STABLE",
             "link": "https://www.bforartists.de/data/binaries/bforartists2_280.zip",
             "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/renderingbfa2.jpg",
-            "imageRef": "#",
-            "imageName": "Bforartist",
+            "imageRef": "https://www.bforartists.de/",
+            "imageName": "Bforartists",
             "description": {
                 "en": "Bforartists is a fork of the popluar open source 3D software Blender. Developed by some 3D enthusiasts to make Blender even better.",
                 "jp": "Bforartistsは、人気のあるオープンソースの3DソフトウェアBlenderのフォークです。 Blenderをさらに良くするために何人かの3D愛好家によって開発されました。",
