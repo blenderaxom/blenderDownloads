@@ -1,6 +1,6 @@
 {
   "WINDOWS": {
-      "STABLE": {
+      "upbge025": {
           "name": "UPBGE 0.2.5",
           "version": "0.2.5",
           "type": "STABLE",
@@ -19,8 +19,7 @@
               "sample": "ok"
           }
       },
-    "EXPERIMENTAL": {
-      "EEVEE": {
+      "upbgeeevee": {
         "name": "UPBGE Eevee",
         "version": "0.1",
         "type": "EXPERIMENTAL",
@@ -39,7 +38,7 @@
             "sample": "ok"
         }
       }
-    }
+    
   },
   "LINUX": {},
   "MACOS":{}
