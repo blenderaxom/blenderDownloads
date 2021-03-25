@@ -1,28 +1,29 @@
 {
-    "WINDOWS": {
-        "bforartists2": {
-            "name": "Bforartists 2",
-            "version": "2.8.0",
-            "type": "STABLE",
-            "link": "https://www.bforartists.de/data/binaries/bforartists2_280.zip",
-            "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/renderingbfa2.jpg",
-            "imageRef": "https://www.bforartists.de/",
-            "imageName": "Bforartists",
-            "description": {
-                "en": "Bforartists is a fork of the popular open source 3D software Blender. Developed by some 3D enthusiasts to make Blender even better.",
-                "jp": "Bforartistsは、人気のあるオープンソースの3DソフトウェアBlenderのフォークです。 Blenderをさらに良くするために何人かの3D愛好家によって開発されました。",
-                "ru": "Bforartists - это ответвление популярного программного обеспечения для 3D-моделирования с открытым исходным кодом Blender. Разработан некоторыми энтузиастами 3D, чтобы сделать Blender еще лучше.",
-                "zh": "Bforartists是流行的开源3D软件Blender的分支。 由某些3D爱好者开发，以使Blender变得更好。",
-                "pt": "Bforartists é um fork do popular software 3D de código aberto Blender. Desenvolvido por alguns entusiastas do 3D para tornar o Blender ainda melhor.",
-                "gr": "Bforartists ist eine Abzweigung der beliebten Open-Source-3D-Software Blender. Entwickelt von einigen 3D-Enthusiasten, um Blender noch besser zu machen.",
-                "fr": "Bforartists est un fork du populaire logiciel 3D open source Blender. Développé par des passionnés de 3D pour rendre Blender encore meilleur.",
-                "es": "Bforartists es una bifurcación del popular software 3D de código abierto Blender. Desarrollado por algunos entusiastas del 3D para hacer que Blender sea aún mejor."
-            },
-            "readmore": {
-                "sample": "o"
-            }
+    "bforartists2": {
+        "name": "Bforartists 2",
+        "version": "2.8.0",
+        "type": "STABLE",
+        "link": "https://www.bforartists.de/data/binaries/bforartists2_280.zip",
+        "links": {
+            "win32": "https://www.bforartists.de/data/binaries/bforartists2_280.zip",
+            "linux": "https://www.bforartists.de/data/binaries/Bforartist-v280-Linux.tar.xz",
+            "darwin": "https://www.bforartists.de/data/binaries/Bforartists-2.8.0-Mac.dmg"
+        },
+        "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/renderingbfa2.jpg",
+        "imageRef": "https://www.bforartists.de/",
+        "imageName": "Bforartists",
+        "description": {
+            "en": "Bforartists is a fork of the popular open source 3D software Blender. Developed by some 3D enthusiasts to make Blender even better.",
+            "jp": "Bforartistsは、人気のあるオープンソースの3DソフトウェアBlenderのフォークです。 Blenderをさらに良くするために何人かの3D愛好家によって開発されました。",
+            "ru": "Bforartists - это ответвление популярного программного обеспечения для 3D-моделирования с открытым исходным кодом Blender. Разработан некоторыми энтузиастами 3D, чтобы сделать Blender еще лучше.",
+            "zh": "Bforartists是流行的开源3D软件Blender的分支。 由某些3D爱好者开发，以使Blender变得更好。",
+            "pt": "Bforartists é um fork do popular software 3D de código aberto Blender. Desenvolvido por alguns entusiastas do 3D para tornar o Blender ainda melhor.",
+            "gr": "Bforartists ist eine Abzweigung der beliebten Open-Source-3D-Software Blender. Entwickelt von einigen 3D-Enthusiasten, um Blender noch besser zu machen.",
+            "fr": "Bforartists est un fork du populaire logiciel 3D open source Blender. Développé par des passionnés de 3D pour rendre Blender encore meilleur.",
+            "es": "Bforartists es una bifurcación del popular software 3D de código abierto Blender. Desarrollado por algunos entusiastas del 3D para hacer que Blender sea aún mejor."
+        },
+        "readmore": {
+            "sample": "o"
         }
-    },
-    "LINUX": {},
-    "MACOS": {}
+    }
 }
