@@ -1,51 +1,29 @@
 {
-  "WINDOWS": {
-      "upbge025": {
-          "name": "UPBGE 0.2.5",
-          "version": "0.2.5",
-          "type": "STABLE",
-          "link": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Windows64.7z",
-          "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/sintelgame.jpg",
-          "imageRef": "https://cloud.blender.org/films/sintel",
-          "imageName": "Sintel- movie",
-          "description": {
-            "en": "UPBGE is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself.",
-            "jp": "UPBGEは、古いBlenderゲームエンジンから分岐したオープンソースの3Dゲームエンジンであり、Blender自体とともに展開されます。",
-            "ru": "UPBGE - это движок для 3D-игр с открытым исходным кодом, созданный на основе старого игрового движка Blender, развернутый вместе с самим Blender.",
-            "zh": "UPBGE是一个开源3D游戏引擎，它是由Blender本身部署的旧Blender Game Engine派生的。",
-            "pt": "UPBGE é um motor de jogo 3D de código aberto derivado do antigo Blender Game Engine, implantado com o próprio Blender.",
-            "gr": "UPBGE ist eine Open-Source-3D-Game-Engine, die aus der alten Blender-Game-Engine hervorgegangen ist und mit Blender selbst bereitgestellt wird.",
-            "fr": "UPBGE est un moteur de jeu 3D open source issu de l'ancien moteur de jeu Blender, déployé avec Blender lui-même.",
-            "es": "UPBGE es un motor de juegos 3D de código abierto bifurcado del antiguo Blender Game Engine, implementado con el propio Blender."
-          },
-          "readmore": {
-              "sample": "ok"
-          }
+  "upbge025": {
+      "name": "UPBGE 0.2.5",
+      "version": "0.2.5",
+      "type": "STABLE",
+      "link": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Windows64.7z",
+      "links": {
+        "win32": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Windows64.7z",
+        "linux": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Linux64.tar.xz",
+        "darwin": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79MacOS.zip"
       },
-      "upbgeeevee": {
-        "name": "UPBGE Eevee",
-        "version": "0.1",
-        "type": "EXPERIMENTAL",
-        "link": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Windows64.7z",
-        "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/sintelgame1.jpg",
-        "imageRef": "https://cloud.blender.org/films/sintel",
-        "imageName": "Sintel-movie",
-        "description": {
-          "en": "Experience the UPBGE in Blender's realtime rederer Eevee!",
-          "jp": "BlenderのリアルタイムredererイーブイでUPBGEを体験してください！",
-          "ru": "Испытайте UPBGE в Rederer Blender Eevee в реальном времени!",
-          "zh": "在Blender的实时重播器Eevee中体验UPBGE！",
-          "pt": "Experimente o UPBGE no rederer em tempo real Eevee do Blender!",
-          "gr": "Erleben Sie das UPBGE in Blenders Echtzeit-Rederer Eevee!",
-          "fr": "Découvrez l'UPBGE dans le rederer en temps réel Eevee de Blender!",
-          "es": "¡Experimenta el UPBGE en el redentor en tiempo real de Blender, Eevee!"
-        },
-        "readmore": {
-            "sample": "ok"
-        }
+      "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/sintelgame.jpg",
+      "imageRef": "https://cloud.blender.org/films/sintel",
+      "imageName": "Sintel- movie",
+      "description": {
+        "en": "UPBGE is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself.",
+        "jp": "UPBGEは、古いBlenderゲームエンジンから分岐したオープンソースの3Dゲームエンジンであり、Blender自体とともに展開されます。",
+        "ru": "UPBGE - это движок для 3D-игр с открытым исходным кодом, созданный на основе старого игрового движка Blender, развернутый вместе с самим Blender.",
+        "zh": "UPBGE是一个开源3D游戏引擎，它是由Blender本身部署的旧Blender Game Engine派生的。",
+        "pt": "UPBGE é um motor de jogo 3D de código aberto derivado do antigo Blender Game Engine, implantado com o próprio Blender.",
+        "gr": "UPBGE ist eine Open-Source-3D-Game-Engine, die aus der alten Blender-Game-Engine hervorgegangen ist und mit Blender selbst bereitgestellt wird.",
+        "fr": "UPBGE est un moteur de jeu 3D open source issu de l'ancien moteur de jeu Blender, déployé avec Blender lui-même.",
+        "es": "UPBGE es un motor de juegos 3D de código abierto bifurcado del antiguo Blender Game Engine, implementado con el propio Blender."
+      },
+      "readmore": {
+          "sample": "ok"
       }
-    
-  },
-  "LINUX": {},
-  "MACOS":{}
+  }
 }
