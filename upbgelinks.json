@@ -9,7 +9,7 @@
         "linux": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Linux64.tar.xz",
         "darwin": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79MacOS.zip"
       },
-      "image": "https://upbge.org/img/4.jpg",
+      "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/upbgecover.jpg",
       "imageRef": "https://upbge.org/",
       "imageName": "UPBGE",
       "description": {
