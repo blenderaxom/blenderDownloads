@@ -1,5 +1,5 @@
 {
-  "WINDOWS": {
+  "win32": {
     "blender283": {
       "name": "Blender 2.83",
       "version": "2.83.13",
@@ -61,6 +61,6 @@
       "readmore": {"sample": "ok"}
     }
   },
-  "LINUX": {},
-  "MACOS": {}
+  "linux": {},
+  "darwin": {}
 }
