@@ -1,66 +1,75 @@
 {
-  "win32": {
-    "blender283": {
-      "name": "Blender 2.83",
-      "version": "2.83.13",
-      "type": "LTS",
-      "link": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-windows64.zip",
-      "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/__f617e0c81e604a078a3ab70093dc37f2-l.jpg",
-      "imageRef": "https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA",
-      "imageName": "Ian Hubert",
-      "description": {
-        "en": "The Blender LTS program is aimed at ensuring that long-lasting projects can be executed using a stable Blender version, which will provide critical fixes throughout a 2-year time span.",
-        "jp": "Blender LTSプログラムは、安定したBlenderバージョンを使用して長期的なプロジェクトを実行できるようにすることを目的としています。これにより、2年間にわたって重要な修正が提供されます。",
-        "ru": "Программа Blender LTS нацелена на то, чтобы обеспечить выполнение долгосрочных проектов с использованием стабильной версии Blender, которая обеспечит критические исправления в течение 2-летнего периода.",
-        "zh": "Blender LTS程序旨在确保可以使用稳定的Blender版本执行长期项目，该版本将在2年的时间范围内提供关键的修复程序。",
-        "pt": "O programa Blender LTS visa garantir que projetos de longa duração possam ser executados usando uma versão estável do Blender, que fornecerá correções críticas ao longo de um período de 2 anos.",
-        "gr": "Das Blender LTS-Programm soll sicherstellen, dass dauerhafte Projekte mit einer stabilen Blender-Version ausgeführt werden können, die über einen Zeitraum von 2 Jahren wichtige Korrekturen bietet.",
-        "fr": "Le programme Blender LTS vise à garantir que des projets de longue durée puissent être exécutés à l'aide d'une version stable de Blender, qui fournira des correctifs critiques sur une période de 2 ans.",
-        "es": "El programa Blender LTS tiene como objetivo garantizar que los proyectos duraderos se puedan ejecutar utilizando una versión estable de Blender, que proporcionará correcciones críticas durante un período de tiempo de 2 años."
-      },
-      "readmore": {"sample": "ok"}
+  "blender283": {
+    "name": "Blender 2.83",
+    "version": "2.83.13",
+    "type": "LTS",
+    "links": {
+      "win32": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-windows64.zip",
+      "linux": "https://opendata.blender.org/cdn/Blender2.83/blender-2.83.13-linux64.tar.xz",
+      "darwin": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.83/blender-2.83.13-macOS.dmg"
     },
-    "blender292": {
-      "name": "Blender 2.92",
-      "version": "2.92.0",
-      "type": "STABLE",
-      "link": "https://opendata.blender.org/cdn/Blender2.92/blender-2.92.0-windows64.zip",
-      "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/__c94ffb3c51b045aa8605209be2f2da95-l.png",
-      "imageRef": "https://www.artstation.com/joanna_kobierska",
-      "imageName": "Joanna Kobierska",
-      "description": {
-        "en": "A completely new workflow for editing meshes, new physics simulation methods and so much more!",
-        "jp": "メッシュを編集するためのまったく新しいワークフロー、新しい物理シミュレーション方法など！",
-        "ru": "Совершенно новый рабочий процесс для редактирования сеток, новые методы моделирования физики и многое другое!",
-        "zh": "全新的工作流程，可用于编辑网格，新的物理模拟方法等等！",
-        "pt": "Um fluxo de trabalho completamente novo para edição de malhas, novos métodos de simulação física e muito mais!",
-        "gr": "Ein völlig neuer Workflow zum Bearbeiten von Netzen, neue Methoden zur Physiksimulation und vieles mehr!",
-        "fr": "Un tout nouveau flux de travail pour l'édition de maillages, de nouvelles méthodes de simulation physique et bien plus encore!",
-        "es": "¡Un flujo de trabajo completamente nuevo para editar mallas, nuevos métodos de simulación física y mucho más!"
-      },
-      "readmore": {"sample": "ok"}
+    "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/__f617e0c81e604a078a3ab70093dc37f2-l.jpg",
+    "imageRef": "https://www.youtube.com/channel/UCbmxZRQk-X0p-TOxd6PEYJA",
+    "imageName": "Ian Hubert",
+    "description": {
+      "en": "The Blender LTS program is aimed at ensuring that long-lasting projects can be executed using a stable Blender version, which will provide critical fixes throughout a 2-year time span.",
+      "jp": "Blender LTSプログラムは、安定したBlenderバージョンを使用して長期的なプロジェクトを実行できるようにすることを目的としています。これにより、2年間にわたって重要な修正が提供されます。",
+      "ru": "Программа Blender LTS нацелена на то, чтобы обеспечить выполнение долгосрочных проектов с использованием стабильной версии Blender, которая обеспечит критические исправления в течение 2-летнего периода.",
+      "zh": "Blender LTS程序旨在确保可以使用稳定的Blender版本执行长期项目，该版本将在2年的时间范围内提供关键的修复程序。",
+      "pt": "O programa Blender LTS visa garantir que projetos de longa duração possam ser executados usando uma versão estável do Blender, que fornecerá correções críticas ao longo de um período de 2 anos.",
+      "gr": "Das Blender LTS-Programm soll sicherstellen, dass dauerhafte Projekte mit einer stabilen Blender-Version ausgeführt werden können, die über einen Zeitraum von 2 Jahren wichtige Korrekturen bietet.",
+      "fr": "Le programme Blender LTS vise à garantir que des projets de longue durée puissent être exécutés à l'aide d'une version stable de Blender, qui fournira des correctifs critiques sur une période de 2 ans.",
+      "es": "El programa Blender LTS tiene como objetivo garantizar que los proyectos duraderos se puedan ejecutar utilizando una versión estable de Blender, que proporcionará correcciones críticas durante un período de tiempo de 2 años."
     },
-    "blender293alpha":{
-      "name": "Blender 2.93.0 Alpha",
-      "version": "2.93.0-36deb8a48ef2-windows64",
-      "type": "EXPERIMENTAL",
-      "link": "https://builder.blender.org/download/blender-2.93.0-36deb8a48ef2-windows64.zip",
-      "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/feature-pic1.jpg",
-      "imageRef": "https://cloud.blender.org/films/sprite-fright",
-      "imageName": "Sprite Fright",
-      "description": {
-        "en": "The latest features and cool bug fixes. They can be unstable and mess up your files. Use at your own risk.",
-        "jp": "最新の機能とクールなバグ修正。 それらは不安定で、ファイルを台無しにする可能性があります。 自己責任。",
-        "zh": "最新功能和出色的错误修复。 它们可能不稳定，并弄乱了您的文件。 使用风险自负。",
-        "ru": "Последние функции и отличные исправления ошибок. Они могут быть нестабильными и испортить ваши файлы. Используйте на свой риск.",
-        "pt": "Os recursos mais recentes e correções de bugs interessantes. Eles podem ser instáveis e bagunçar seus arquivos. Use por sua conta e risco. ",
-        "gr": "Die neuesten Funktionen und coolen Bugfixes. Sie können instabil sein und Ihre Dateien durcheinander bringen. Benutzung auf eigene Gefahr.",
-        "fr": "Les dernières fonctionnalités et corrections de bugs sympas. Ils peuvent être instables et gâcher vos fichiers. À utiliser à vos risques et périls.",
-        "es": "Las últimas funciones y correcciones de errores interesantes. Pueden ser inestables y estropear sus archivos. Úselo bajo su propio riesgo."
-      },
-      "readmore": {"sample": "ok"}
-    }
+    "readmore": {"sample": "ok"}
   },
-  "linux": {},
-  "darwin": {}
+  "blender292": {
+    "name": "Blender 2.92",
+    "version": "2.92.0",
+    "type": "STABLE",
+    "links": {
+      "win32": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.92/blender-2.92.0-windows64.zip",
+      "linux": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.92/blender-2.92.0-linux64.tar.xz",
+      "darwin": "https://ftp.nluug.nl/pub/graphics/blender/release/Blender2.92/blender-2.92.0-macOS.dmg"
+    },
+    "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/__c94ffb3c51b045aa8605209be2f2da95-l.png",
+    "imageRef": "https://www.artstation.com/joanna_kobierska",
+    "imageName": "Joanna Kobierska",
+    "description": {
+      "en": "A completely new workflow for editing meshes, new physics simulation methods and so much more!",
+      "jp": "メッシュを編集するためのまったく新しいワークフロー、新しい物理シミュレーション方法など！",
+      "ru": "Совершенно новый рабочий процесс для редактирования сеток, новые методы моделирования физики и многое другое!",
+      "zh": "全新的工作流程，可用于编辑网格，新的物理模拟方法等等！",
+      "pt": "Um fluxo de trabalho completamente novo para edição de malhas, novos métodos de simulação física e muito mais!",
+      "gr": "Ein völlig neuer Workflow zum Bearbeiten von Netzen, neue Methoden zur Physiksimulation und vieles mehr!",
+      "fr": "Un tout nouveau flux de travail pour l'édition de maillages, de nouvelles méthodes de simulation physique et bien plus encore!",
+      "es": "¡Un flujo de trabajo completamente nuevo para editar mallas, nuevos métodos de simulación física y mucho más!"
+    },
+    "readmore": {"sample": "ok"}
+  },
+  "blender293alpha":{
+    "name": "Blender 2.93.0 Alpha",
+    "version": "2.93.0-9ac7946dd03f",
+    "type": "EXPERIMENTAL",
+    "links": {
+      "win32": "https://builder.blender.org/download/blender-2.93.0-9ac7946dd03f-windows64.zip",
+      "linux": "https://builder.blender.org/download/blender-2.93.0-9ac7946dd03f-linux64.tar.xz",
+      "darwin": "https://builder.blender.org/download/blender-2.93.0-9ac7946dd03f-macOS.dmg"
+    },
+    "image": "https://github.com/bordoloicorp/blenderDownloads/raw/main/images/feature-pic1.jpg",
+    "imageRef": "https://cloud.blender.org/films/sprite-fright",
+    "imageName": "Sprite Fright",
+    "description": {
+      "en": "The latest features and cool bug fixes. They can be unstable and mess up your files. Use at your own risk.",
+      "jp": "最新の機能とクールなバグ修正。 それらは不安定で、ファイルを台無しにする可能性があります。 自己責任。",
+      "zh": "最新功能和出色的错误修复。 它们可能不稳定，并弄乱了您的文件。 使用风险自负。",
+      "ru": "Последние функции и отличные исправления ошибок. Они могут быть нестабильными и испортить ваши файлы. Используйте на свой риск.",
+      "pt": "Os recursos mais recentes e correções de bugs interessantes. Eles podem ser instáveis e bagunçar seus arquivos. Use por sua conta e risco. ",
+      "gr": "Die neuesten Funktionen und coolen Bugfixes. Sie können instabil sein und Ihre Dateien durcheinander bringen. Benutzung auf eigene Gefahr.",
+      "fr": "Les dernières fonctionnalités et corrections de bugs sympas. Ils peuvent être instables et gâcher vos fichiers. À utiliser à vos risques et périls.",
+      "es": "Las últimas funciones y correcciones de errores interesantes. Pueden ser inestables y estropear sus archivos. Úselo bajo su propio riesgo."
+    },
+    "readmore": {"sample": "ok"}
+  }
+  
 }
