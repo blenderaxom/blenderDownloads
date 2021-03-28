@@ -3,6 +3,7 @@
       "name": "UPBGE 0.2.5",
       "version": "0.2.5",
       "type": "STABLE",
+      "software": "upbge",
       "link": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Windows64.7z",
       "links": {
         "win32": "https://github.com/UPBGE/upbge/releases/download/v0.2.5/UPBGEv0.2.5b2.79Windows64.7z",
