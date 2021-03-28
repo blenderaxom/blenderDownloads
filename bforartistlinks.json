@@ -3,6 +3,7 @@
         "name": "Bforartists 2",
         "version": "2.8.0",
         "type": "STABLE",
+        "software": "bforartists",
         "link": "https://www.bforartists.de/data/binaries/bforartists2_280.zip",
         "links": {
             "win32": "https://www.bforartists.de/data/binaries/bforartists2_280.zip",
