@@ -1,11 +1,11 @@
 {
   "simple-template": {
-    "name": "Simple blender project",
-    "description": "A simple starter project for blender.",
-    "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/templates/SimpleTemplate.zip",
-    "version": "0.1",
-    "type": "template",
+    "name": "Starter blender project",
+    "description": "A simple starter project template for blender.",
     "software": "blender",
+    "type": "template",
+    "version": "0.1",
     "author": "BlenderLab"
+    "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/templates/SimpleBlenderProject.zip",
   }
 }
