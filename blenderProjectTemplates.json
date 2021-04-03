@@ -1,0 +1,11 @@
+{
+  "simple-template": {
+    "name": "Simple blender project",
+    "description": "A simple starter project for blender.",
+    "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/templates/SimpleTemplate.zip",
+    "version": "0.1",
+    "type": "template",
+    "software": "blender",
+    "author": "BlenderLab"
+  }
+}
