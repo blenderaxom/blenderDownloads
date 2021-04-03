@@ -5,7 +5,7 @@
     "software": "blender",
     "type": "template",
     "version": "0.1",
-    "author": "BlenderLab"
+    "author": "BlenderLab",
     "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/templates/SimpleBlenderProject.zip",
   }
 }
