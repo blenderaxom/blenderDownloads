@@ -15,11 +15,11 @@
       "imageName": "UPBGE",
       "description": {
         "en": "UPBGE is an open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself.",
-        "jp": "UPBGEは、古いBlenderゲームエンジンから分岐したオープンソースの3Dゲームエンジンであり、Blender自体とともに展開されます。",
+        "ja": "UPBGEは、古いBlenderゲームエンジンから分岐したオープンソースの3Dゲームエンジンであり、Blender自体とともに展開されます。",
         "ru": "UPBGE - это движок для 3D-игр с открытым исходным кодом, созданный на основе старого игрового движка Blender, развернутый вместе с самим Blender.",
-        "zh": "UPBGE是一个开源3D游戏引擎，它是由Blender本身部署的旧Blender Game Engine派生的。",
+        "zh-cn": "UPBGE是一个开源3D游戏引擎，它是由Blender本身部署的旧Blender Game Engine派生的。",
         "pt": "UPBGE é um motor de jogo 3D de código aberto derivado do antigo Blender Game Engine, implantado com o próprio Blender.",
-        "gr": "UPBGE ist eine Open-Source-3D-Game-Engine, die aus der alten Blender-Game-Engine hervorgegangen ist und mit Blender selbst bereitgestellt wird.",
+        "de": "UPBGE ist eine Open-Source-3D-Game-Engine, die aus der alten Blender-Game-Engine hervorgegangen ist und mit Blender selbst bereitgestellt wird.",
         "fr": "UPBGE est un moteur de jeu 3D open source issu de l'ancien moteur de jeu Blender, déployé avec Blender lui-même.",
         "es": "UPBGE es un motor de juegos 3D de código abierto bifurcado del antiguo Blender Game Engine, implementado con el propio Blender."
       },
