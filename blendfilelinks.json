@@ -1,0 +1,32 @@
+{
+    "blenderdefault": {
+        "name": "Blender default start file",
+        "description": "The default blender start file.",
+        "software": "blender",
+        "softwareVersion": "2.93",
+        "templateVersion": "0.1",
+        "author": "BlenderLab",
+        "licence": "",
+        "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/blender%20file%20templates/blender-default.zip"
+    },
+    "blender2dAnimation": {
+        "name": "Blender 2d animation start file",
+        "description": "The default blender 2d animation start file.",
+        "software": "blender",
+        "softwareVersion": "2.93",
+        "templateVersion": "0.1",
+        "author": "BlenderLab",
+        "licence": "",
+        "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/blender%20file%20templates/blender-2danimation.zip"
+    },
+    "blenderSculpting": {
+        "name": "Blender sculpt start file",
+        "description": "The default blender sculpting start file.",
+        "software": "blender",
+        "softwareVersion": "2.93",
+        "templateVersion": "0.1",
+        "author": "BlenderLab",
+        "licence": "",
+        "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/blender%20file%20templates/blender-sculpting.zip"
+    }
+}
