@@ -1,6 +1,6 @@
 {
   "simple-template": {
-    "name": "Starter blender project",
+    "name": "Starter blender project template",
     "description": "A simple starter project template for blender.",
     "software": "blender",
     "type": "template",
