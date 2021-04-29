@@ -6,6 +6,7 @@
     "type": "template",
     "version": "0.1",
     "author": "BlenderLab",
+    "image":"https://github.com/bordoloicorp/blenderDownloads/raw/main/images/starter.jpg",
     "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/templates/SimpleBlenderProject.zip"
   }
 }
