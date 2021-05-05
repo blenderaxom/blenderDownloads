@@ -6,6 +6,7 @@
         "softwareVersion": "2.93",
         "templateVersion": "0.1",
         "author": "BlenderLab",
+        "image":"https://github.com/bordoloicorp/blenderDownloads/raw/main/images/starter.jpg",
         "licence": "",
         "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/blender%20file%20templates/blender-default.zip"
     },
@@ -17,6 +18,7 @@
         "templateVersion": "0.1",
         "author": "BlenderLab",
         "licence": "",
+        "image":"https://github.com/bordoloicorp/blenderDownloads/raw/main/images/starter.jpg",
         "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/blender%20file%20templates/blender-2danimation.zip"
     },
     "blenderSculpting": {
@@ -26,6 +28,7 @@
         "softwareVersion": "2.93",
         "templateVersion": "0.1",
         "author": "BlenderLab",
+        "image":"https://github.com/bordoloicorp/blenderDownloads/raw/main/images/starter.jpg",
         "licence": "",
         "link": "https://github.com/bordoloicorp/blenderDownloads/raw/main/blender%20file%20templates/blender-sculpting.zip"
     }
